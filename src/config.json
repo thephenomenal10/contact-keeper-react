@@ -1,0 +1,4 @@
+{
+    "local": "https://contact-keeper-serverr.herokuapp.com",
+    "heroku": "http://localhost:8000"
+}
